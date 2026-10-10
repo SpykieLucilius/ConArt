@@ -4,6 +4,20 @@ All notable changes to this project are documented here.
 
 ---
 
+## [0.0.2] - 2026-10-11
+
+### Added
+
+- CI to block PR into main that aren't from dev branch
+
+### Changed
+None
+
+### Fixed
+None
+
+---
+
 ## [0.0.1] - 2026-10-11
 
 ### Added
